@@ -1,0 +1,9 @@
+net.starype.quiz.api
+net.starype.quiz.api.game
+net.starype.quiz.api.game.answer
+net.starype.quiz.api.game.event
+net.starype.quiz.api.game.player
+net.starype.quiz.api.game.question
+net.starype.quiz.api.parser
+net.starype.quiz.api.server
+net.starype.quiz.api.util
